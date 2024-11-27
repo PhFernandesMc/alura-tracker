@@ -66,11 +66,12 @@ main {
 }
 
 main.modo-escuro {
-  --bg-primario: #2b2d42;
+  --bg-primario: #141520;
   --texto-primario: #ddd;
 }
 
 .conteudo {
   background-color: var(--bg-primario);
+  color: var(--texto-primario);
 }
 </style>

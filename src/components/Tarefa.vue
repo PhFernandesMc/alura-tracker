@@ -31,8 +31,4 @@ export default defineComponent({
 </script>
 
 <style scoped>
-.box {
-  background: #06be65;
-  color: black;
-}
 </style>
